@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from "react";
 import ProfileCard from './components/ProfileCard'
 import AddressCard from './components/AddressCard'
